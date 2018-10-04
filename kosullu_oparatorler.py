@@ -77,4 +77,4 @@ if a==b: #      == değişkenlerin içeriğine bakar
 if a is b: # is ifadesi değişkenlerin kimlik değerlerine bakar 
     print ("aynı")    
     
-    
+
