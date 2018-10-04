@@ -56,3 +56,25 @@ if bool (x):                #not operatöründen hiçbir şey anlamadım kilit
 if not bool(x):
     print("doğru")
     
+# %% in operatörü aitlik
+    
+parola="desasin"
+                    
+if "*" not in parola: # eğer parolanın içinde * yoksa ekrana mesajı yaz 
+    print("lütfen parolanızda * kullanınız")
+    
+    
+# %% kimlik operatörü
+
+# is ve id işleci
+
+a=5 
+b=5
+
+if a==b: #      == değişkenlerin içeriğine bakar
+    print("aynı")
+
+if a is b: # is ifadesi değişkenlerin kimlik değerlerine bakar 
+    print ("aynı")    
+    
+    
