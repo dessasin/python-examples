@@ -1,4 +1,5 @@
-# -*- coding: utf-8 -*-
+def returned (j,k):
+    output=j*k
+    return output
 
-for j in range(0,100,2):
-    print(j)   #0 dan 100 e kadar 2şerli saydırma 
+print(returned(123,123))
