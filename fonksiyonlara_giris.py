@@ -7,16 +7,3 @@
 ###########################################
 
 
-#Kütüphaneler ~ Dictionaries
-
-
-#Değişkenler ~ Variables
-
-
-#Fonksiyonlar ~ Functions
-
-
-#Sınıflar ~ Classes
-
-
-#Ana Kodlar ~ Main 

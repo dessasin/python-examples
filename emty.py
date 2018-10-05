@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
 
-sayi = int(input("sayı "))
-
-if sayi > 5:
-    if sayi%2==0:
-        print("doğru")
-        
+for j in range(0,100,2):
+    print(j)   #0 dan 100 e kadar 2şerli saydırma 
