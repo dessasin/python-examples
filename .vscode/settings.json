@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "/usr/bin/python3"
+    "python.pythonPath": "/usr/bin/python3",
+    "files.autoSave": "afterDelay",
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "monokaiPro.fileIconsMonochrome": true
 }
