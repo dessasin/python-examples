@@ -4,5 +4,6 @@
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
     "monokaiPro.fileIconsMonochrome": true,
-    "python.linting.pylintEnabled": false
+    "python.linting.pylintEnabled": false,
+    "editor.fontSize": 12
 }
