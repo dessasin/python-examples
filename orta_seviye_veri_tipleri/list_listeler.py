@@ -20,4 +20,15 @@ listem+=[eklenecek]
 print(listem)
 
 
-#
+#liste öğelerine erişme
+
+listOne=["nurullah","torun",12123,"dessasin",0.12]
+# listeler   0         1       2      3        4         şeklinde sıralanır
+print(listOne[1])
+
+
+# liste içindeki listenin elemanına ulaşmak
+
+listTwo=[12,11,241,5235,[543,999,645]]
+
+print(listTwo[-1][1])#bu komutta listTwo listesinin son elemanının 1.elemanını göster diyoruz
