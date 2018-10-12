@@ -1,0 +1,98 @@
+örnekler
+
+01 - İsim oluşturucu
+Belirlenen ad ve soyad listeleri içinden rastgele seçim yaparak sahte isimler oluşturur.
+
+Kullanılan modüller: random
+
+
+02 - Sıcaklık çevirici
+Yapılan seçime göre (1/2) derece cinsinden girilen sıcaklık değerini celsius'tan fahrenheit'a ya da tam tersi yönde çeviren program.
+
+03 - Kaç saniye yaşadın?
+Kullanıcıdan gün.ay.yıl formatında alınan doğum tarihiyle bugünün farkı hesaplanıp saniye cinsinden ekrana yazılıyor.
+
+Kullanılan modüller: datetime
+
+04 - Basit şifreleme / çözümleme
+Girilen metindeki her karakterin ascii kod değeri kullanıcıdan alınan değer kadar (i) artırılıyor. Şifrelenen metni çözmek için de tam tersi azaltılıyor.
+
+05 - FizzBuzz
+Kullanıcıdan alınan değer uzunluktaki bir dizi içindeki üçün katları için "Fizz", beşin katları için "Buzz", hem beş hem de üçün katları için "FizzBuzz", her üçü de değilse sayının kendisini yazdırır.
+
+06 - Taş, Kağıt, Makas
+Klasik taş kağıt makas oyunu. Kullanıcı seçtikten sonra bilgisayar da seçim yapıyor ve karşılaştırılıyor. Oyun, kullanıcı seçim ekranında 1, 2, ya da 3 dışında bir veri girene kadar devam ediyor.
+
+Kullanılan modüller: random
+
+07 - Adam asmaca
+Rastgele belirlenen bir kelime soruluyor. Her yanlış cevap için çubuk adamın bir parçası çiziliyor ve tamamlandığında oyun bitiyor.
+
+Kullanılan modüller: random
+
+08 - Aşk hesaplayıcı
+Çifte girilen isimlere göre on üzerinden puan veriyor. Aşk hesaplayıcının ne olduğuna şuradan baktım.
+
+09 - Sahte alıntı oluşturucu
+Belirlenen metni noktalardan parçalayıp içinden verilen sayı kadar rastgele cümle alıp ekrana yazıyor.
+
+Kullanılan modüller: random
+
+10 - Parola oluşturucu
+Kullanıcıdan uzunluk ve seviye değerleri alınıyor. Seçilebilecek karakterlere seviye birde harfler, ikide sayılar ve üçte özel karakterler ekleniyor. Sonra bu karakterler içinden belirlenen uzunluk kadarı rastgele alınıp döndürülüyor.
+
+Kullanılan modüller: random, string
+
+13 - Sihirli Sekiz Top
+Topun içindeki sıvıdaki bi üçgen prizmada yazan cevapları rastgele getiren oyuncak gibi rastgele cevaplar verir.
+
+Modüller: random
+
+15 - Metni geriye çevirme
+Kullanıcının girdiği metni tersine çevirip ekrana yazıyor.
+
+16 - Metindeki ünlü harfler
+Girilen metin içinde kaç tane ünlü harf olduğunu bulur. Türkçe karakterleri de ekleyebilirsiniz.
+
+17 - Metindeki kelime sayısı
+Girilen metin boşluklardan parçalanıyor ve her parçanın tamamen noktalama işaretlerinden oluşup oluşmadığı kontrol ediliyor. Uygun kelimeler sayılıp sonuç ekrana yazılıyor.
+
+Kullanılan modüller: string
+
+24 - Girilen sayıyı ikilik sisteme (binary) çevirme
+Kullanıcının onluk sistemde (decimal) girdiği sayıyı ikilik sisteme çeviriyor. Bizim yazdığımız fonksiyon dışında Python'un bize sağladığı diğer iki yolu da ekledim.
+
+
+27 - Fibonacci sayıları
+Girilen değer kadar (uzunlukta) fibonacci sayıları üretir.
+
+28 - Faktoriyel hesaplama
+Yüz (ya da "n") faktoriyeli hesaplıyor.
+
+
+32 - Konsolda Noel Ağacı
+Verilen yükseklikte bir noel ağacı çizer.
+
+33 - Alan hesaplayıcı
+Kullanıcının girdiği 1, 2, ya da 3 seçeneğine göre kare, dikdörtgen ya da çemberin alanını hesaplayıyor.
+
+40 - Dizideki en büyük sayı
+Kullanıcının boşluklarla ayırarak girdiği sayıların içinden en büyüğünü index numarasıyla beraber yazdırır.
+
+57 - Sıralama Algoritması
+Baloncuk sıralama algoritması kullanarak diziyi küçükten büyüğe doğru sıralar.
+
+66 - Asal sayı oluşturucu
+İstenilen sayıda asal sayı oluşturup liste olarak döndürür.
+
+
+71 - Yazı yazma hızını hesaplama
+Kullanıcıdan bir metin girilmesi isteniyor, ilk zamanla yazıyı yazdıktan sonraki zaman arasındaki fark saniye cinsinden ekrana yazılıyor. Kullanıcıya saniye başına kaç harf yazdığı söyleniyor.
+
+Kullanılan modüller: datetime
+
+87 - Pascal Üçgeni
+Verilen yükseklikte pascal üçgeni oluşturup döndürür.
+
+
+
